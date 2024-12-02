@@ -18,7 +18,6 @@ function NavBar(){
     <img style={imgStyle} src = {img2}></img>
     <p className='stilemio' > CORSO </p>
     <p color='yellow' >________________</p>
-
     <ul>
         <li> <a href = "#" > ciao</a></li>
         <li> <a href = "#" > ciao</a></li>
